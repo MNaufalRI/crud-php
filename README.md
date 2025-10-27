@@ -61,3 +61,7 @@ Aplikasi ini dibangun menggunakan **PHP Native (PHP 8.0+)** dan **PDO** untuk ko
 ## Struktur Folder
 
 Proyek ini menggunakan struktur file "flat" (semua file utama ada di root) untuk kesederhanaan.
+
+## Screenshot CRUD
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/c9ec87bf-8ac4-4fe5-a6b6-0a59c7cc86dd" />
+
