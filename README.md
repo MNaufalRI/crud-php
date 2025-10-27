@@ -64,7 +64,7 @@ Proyek ini menggunakan struktur file "flat" (semua file utama ada di root) untuk
 
 ## Contoh Environment Config
 
-<?php
+**<?php
 // === KONFIGURASI DATABASE ===
 define('DB_HOST', '127.0.0.1'); 
 define('DB_NAME', 'komikverse_db'); 
@@ -73,7 +73,7 @@ define('DB_PASS', '');
 
 // === KONFIGURASI APLIKASI ===
 define('DISPLAY_ERRORS', true);
-?>
+?>**
 
 ## Screenshot CRUD
 
