@@ -51,7 +51,7 @@ Aplikasi ini dibangun menggunakan **PHP Native (PHP 8.0+)** dan **PDO** untuk ko
     * Isi file `config.php` dengan kredensial database Anda.
 
 4.  **Jalankan Aplikasi**
-    * Akses proyek dari browser Anda (misal: `http://localhost/komikverse/`).
+    * Akses proyek dari browser (misal: `http://localhost/komikverse/`).
     * Untuk mengakses dashboard, pergi ke `http://localhost/komikverse/login.php`.
     * Gunakan kredensial default:
         * **Username**: `admin`
