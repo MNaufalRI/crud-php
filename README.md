@@ -62,6 +62,20 @@ Aplikasi ini dibangun menggunakan **PHP Native (PHP 8.0+)** dan **PDO** untuk ko
 
 Proyek ini menggunakan struktur file "flat" (semua file utama ada di root) untuk kesederhanaan.
 
+## Contoh Environment Config
+
+<?php
+// === KONFIGURASI DATABASE ===
+define('DB_HOST', '127.0.0.1'); 
+define('DB_NAME', 'komikverse_db'); 
+define('DB_USER', 'root'); 
+define('DB_PASS', ''); 
+
+// === KONFIGURASI APLIKASI ===
+define('DISPLAY_ERRORS', true);
+?>
+
 ## Screenshot CRUD
+
 <img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/c9ec87bf-8ac4-4fe5-a6b6-0a59c7cc86dd" />
 
