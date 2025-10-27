@@ -39,11 +39,11 @@ Aplikasi ini dibangun menggunakan **PHP Native (PHP 8.0+)** dan **PDO** untuk ko
 ## Cara Instalasi dan Konfigurasi
 
 1.  **Clone atau Download Proyek**
-    Salin semua file proyek ke web root server lokal Anda (misal: `C:\laragon\www\komikverse` atau `C:\xampp\htdocs\komikverse`).
+    Salin semua file proyek ke web root server lokal (misal: `C:\laragon\www\komikverse` atau `C:\xampp\htdocs\komikverse`).
 
 2.  **Buat Database**
     * Buka phpMyAdmin (atau klien database lainnya).
-    * Buat database baru. Kami merekomendasikan nama `komikverse_db`.
+    * Buat database baru. Contohnya saya membuat database dengan nama `komikverse_db`.
     * Impor file `schema.sql` ke dalam database tersebut. Ini akan membuat tabel `komik`.
 
 3.  **Konfigurasi Environment**
